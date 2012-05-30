@@ -1,0 +1,12 @@
+IMAP client developed in ruby on rails. This IMAP client has an admin panel from where the admin can add domain to which the email client allows to login.
+Admin panel can be accessed by yourdomain.com/admin e.g localhost/admin
+the default username and password of the email client is
+Username : admin
+Password : password
+
+when the admin login then he must change the password and other account details. The admin must add the required domain from admin panel so that the users can
+login to the domain.
+
+the email client provides facility to user to add folders move emails and delete folders.
+
+email client by Rq Bukhari
